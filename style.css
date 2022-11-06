@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding:0;
+    padding: 0;
 }
 
 header,
@@ -37,6 +37,6 @@ P{
 .card{
     width:80%;
     margin: 40px auto;
-    border:5px solidgray;
+    border: 10px Solid blue;
     box-shadow:5px 10px #888888;
 }
